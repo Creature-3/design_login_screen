@@ -7,7 +7,6 @@ A new Flutter project
 ![loginScreen1](https://github.com/user-attachments/assets/93331e1e-77e2-4902-b9b0-2a7607f160a9)
 
 
-
 <img width="195" alt="loginScreen2" src="https://github.com/user-attachments/assets/abd96208-f3ba-4b6d-a685-063dba8868da">
 
 
