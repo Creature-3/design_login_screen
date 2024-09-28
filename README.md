@@ -4,7 +4,8 @@ A new Flutter project
 
 # Screenshot
 
-![hwv5j94z](https://github.com/user-attachments/assets/19331da8-7921-408d-850d-5c7213df567d)
+<img width="194" alt="loginScreen1" src="https://github.com/user-attachments/assets/1ff5df25-f9e5-42ad-a296-25b1e276eee2">
+
 
 <img width="195" alt="loginScreen2" src="https://github.com/user-attachments/assets/abd96208-f3ba-4b6d-a685-063dba8868da">
 
